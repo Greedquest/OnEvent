@@ -1,5 +1,5 @@
 Attribute VB_Name = "MethodTest_2"
-'@Folder("CBuse")
+'@Folder "CBuse - Array Iterators"
 Option Explicit
 
 Private Type TagVariant

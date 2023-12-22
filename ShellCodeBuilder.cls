@@ -7,7 +7,7 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
-'@Folder("Implementation.Assem")
+'@Folder "Generators.Assem"
 Option Explicit
 
 Private result() As Byte

@@ -1,5 +1,5 @@
 Attribute VB_Name = "ValueProviderApproach"
-'@Folder "Implementation.ValueProvider"
+'@Folder "Generators.ValueProvider"
 Option Explicit
 
 Private Type TENUMERATOR

@@ -1,6 +1,6 @@
 Attribute VB_Name = "LibOle"
 Attribute VB_Description = "Credit: Ion Crisitian Buse https://gist.github.com/cristianbuse/b651a3cd740e27a78ea90bca9f7af4d1#file-libole-bas"
-'@Folder "COMTools.OLE"
+'@Folder "Libs.COMTools.OLE"
 '@ModuleDescription("Credit: Ion Crisitian Buse https://gist.github.com/cristianbuse/b651a3cd740e27a78ea90bca9f7af4d1#file-libole-bas")
 Option Explicit
 

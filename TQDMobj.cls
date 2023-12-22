@@ -8,7 +8,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
 
-'@Folder "Implementation.TQDM"
+'@Folder "Generators.TQDM"
 Option Explicit
 
 Public iterable As Object

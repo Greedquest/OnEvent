@@ -7,7 +7,7 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
-'@Folder("CBuse.Method1b")
+'@Folder "CBuse - Array Iterators.Method1b"
 Option Explicit
 
 

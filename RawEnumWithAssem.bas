@@ -1,5 +1,5 @@
 Attribute VB_Name = "RawEnumWithAssem"
-'@Folder "Implementation.CountDown"
+'@Folder "Generators.Assem.CountDown"
 Option Explicit
 
 Private Type TENUMERATOR

@@ -7,7 +7,7 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
-'@Folder "CBuse.Method1a"
+'@Folder "CBuse - Array Iterators.Method1a"
 Option Explicit
 
 Public Function ItemByIndex(ByVal iIndex As Long _

@@ -1,5 +1,5 @@
 Attribute VB_Name = "LibEnumerable_1b"
-'@Folder("CBuse.Method1b")
+'@Folder "CBuse - Array Iterators.Method1b"
 Option Explicit
 
 Private vtbl(0 To 6) As LongPtr

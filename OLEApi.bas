@@ -1,5 +1,5 @@
 Attribute VB_Name = "OLEApi"
-'@Folder "COMTools.OLE"
+'@Folder "Libs.COMTools.OLE"
 Option Explicit
 
 '#define DISPATCH_METHOD         0x1

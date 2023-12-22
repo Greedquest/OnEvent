@@ -1,6 +1,6 @@
 Attribute VB_Name = "OLEStructs"
 '@IgnoreModule IntegerDataType
-'@Folder "COMTools.OLE"
+'@Folder "Libs.COMTools.OLE"
 Option Explicit
 
 Public Type GUIDt

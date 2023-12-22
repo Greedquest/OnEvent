@@ -1,5 +1,5 @@
 Attribute VB_Name = "LibEnumerable_1a"
-'@Folder "CBuse.Method1a"
+'@Folder "CBuse - Array Iterators.Method1a"
 Option Explicit
 
 Private virtualTablePointers(0 To 6) As LongPtr

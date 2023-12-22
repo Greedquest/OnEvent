@@ -1,5 +1,5 @@
-Attribute VB_Name = "Tests"
-'@Folder "CBuse"
+Attribute VB_Name = "PerformanceTests"
+'@Folder "CBuse - Array Iterators"
 Option Explicit
 
 Const LONG_SIZE As Long = 4

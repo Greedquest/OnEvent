@@ -1,6 +1,6 @@
 Attribute VB_Name = "testCode"
 '@IgnoreModule ImplicitPublicMember, ProcedureNotUsed
-'@Folder("Implementation")
+'@Folder "Generators"
 Option Explicit
 
 

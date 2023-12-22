@@ -1,5 +1,5 @@
 Attribute VB_Name = "VTables"
-'@Folder "COMTools.TLITypes"
+'@Folder "Libs.COMTools.TLITypes"
 Option Explicit
 
 '[IUnknown](https://en.wikipedia.org/wiki/IUnknown)

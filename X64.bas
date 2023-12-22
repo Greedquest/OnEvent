@@ -1,5 +1,5 @@
 Attribute VB_Name = "X64"
-'@Folder Implementation.Assem
+'@Folder "Generators.Assem"
 Option Explicit
 
 Type decrementableThing

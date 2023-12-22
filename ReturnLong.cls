@@ -8,7 +8,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
 
-'@Folder "Implementation.Enumerate"
+'@Folder "Generators.Enumerate"
 Option Explicit
 
 Private internalValue As Long

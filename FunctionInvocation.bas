@@ -1,5 +1,5 @@
 Attribute VB_Name = "FunctionInvocation"
-'@Folder "COMTools.TypeInfoInvoker"
+'@Folder "Libs.COMTools.TypeInfoInvoker"
 Option Explicit
 
 ' for documentation on the main API DispCallFunc... http://msdn.microsoft.com/en-us/library/windows/desktop/ms221473%28v=vs.85%29.aspx
