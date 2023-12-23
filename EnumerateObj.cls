@@ -8,7 +8,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
 '@IgnoreModule ProcedureNotUsed
-'@Folder "Generators.Enumerate"
+'@Folder "Generators.Manual Mem Alloc.Enumerate"
 Option Explicit
 
 Public iterable As Object

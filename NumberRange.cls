@@ -7,7 +7,7 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
-'@Folder "Generators.ValueProvider"
+'@Folder "Generators.Manual Mem Alloc.ValueProvider"
 Implements IValueProvider
 
 Private Type TRange

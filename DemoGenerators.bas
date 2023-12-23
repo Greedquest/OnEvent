@@ -1,4 +1,4 @@
-Attribute VB_Name = "testCode"
+Attribute VB_Name = "DemoGenerators"
 '@IgnoreModule ImplicitPublicMember, ProcedureNotUsed
 '@Folder "Generators"
 Option Explicit

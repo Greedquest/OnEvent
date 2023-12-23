@@ -1,5 +1,5 @@
 Attribute VB_Name = "Enumeration"
-'@Folder "Generators.Enumerate"
+'@Folder "Generators.Manual Mem Alloc.Enumerate"
 Option Explicit
 
 Private Type TENUMERATOR

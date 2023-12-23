@@ -7,7 +7,7 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
-'@Folder "Archive.Implementation"
+'@Folder "Generators.Manual Mem Alloc"
 '@PredeclaredID
 Option Explicit
 

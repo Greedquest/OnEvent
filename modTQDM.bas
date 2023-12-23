@@ -1,5 +1,5 @@
 Attribute VB_Name = "modTQDM"
-'@Folder "Generators.TQDM"
+'@Folder "Generators.Manual Mem Alloc.TQDM"
 Option Explicit
 
 Private Type TENUMERATOR
